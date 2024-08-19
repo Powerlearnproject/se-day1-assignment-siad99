@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Software engineering is the process of applying engineering principles to desingn, develop,  test and  maintening software system. 
 In the technology industry, software engineering is extremely important because almost every modern system or device relies on software. From smartphones and computers to cars and medical devices, software plays a crucial role in how these technologies function. Without proper software engineering, these systems could be prone to bugs, security issues, or even complete failures.
-The importance of software engineering also lies in its ability to manage complexity. As software systems become more complex and interconnected, a structured approach is necessary to handle the challenges of design, development, and maintenance.describe at least three key milestones in the evolution of software engineering.
+The importance of software engineering also lies in its ability to manage complexity. As software systems become more complex and interconnected, a structured approach is necessary to handle the challenges of design, development, and maintenance.describe at least three key milestones in the evolution of software engineering. 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
